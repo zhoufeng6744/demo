@@ -1,21 +1,2 @@
 ## Welcome to GitHub Pages
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title>html5</title>
-    <style type="text/css">
-    .theme{
-      display: block;
-      width: 200px;
-      font-size: 30px;
-      margin: 100px auto;
-    }
-    </style>
-</head>
-<body>
-<div class="theme">
-  Hello, world.
-</div>
-
-</body>
-</html>
+<a href="#">我是新建的一个链接</a>
